@@ -214,7 +214,6 @@ li a:hover{
         height: 1500px;
         padding: 0 70px;
         gap: 20px;
-        
     }
     .second-section{
         flex-wrap: wrap;
@@ -222,13 +221,17 @@ li a:hover{
 
     }
     .picture img{
-        width: 450px;
+        width: 400px;
         height: 400px;
     }
     .navbar{
         flex-direction: column;
         gap: 20px;
     }
+    .fast{
+        width: 220px;
+    }
+   
     
    
 }
